@@ -118,4 +118,4 @@ Y.Event.define('pasted', {
 });
 
 
-}, '@VERSION@' ,{requires:['node-synthetic']});
+}, '@VERSION@' ,{requires:['event-synthetic']});
